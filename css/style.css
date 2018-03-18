@@ -1,0 +1,11 @@
+#container{
+	margin: 20px;
+}
+#carrousel{
+	height: 300px;
+	width: 100%;
+	background-color: grey;
+}
+body{
+	margin-bottom: 0px;
+}
