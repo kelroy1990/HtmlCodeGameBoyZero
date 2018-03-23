@@ -13,7 +13,7 @@ function renderNav(){
 	ul.append($('<li class="nav-item active" />')
 		.append('<a class="nav-link" href="//keltech.es">Home <span class="sr-only">(current)</span></a>'));
 	ul.append($('<li class="nav-item" />')
-		.append('<a class="nav-link" href="//portal.keltech.es/admin">Admin</a>'));
+		.append('<a class="nav-link" href="//portal.keltech.es">Admin</a>'));
 	ul.append($('<li class="nav-item dropdown" />')
 		.append('<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Secciones</a>')
 		.append($('<div class="dropdown-menu" aria-labelledby="navbarDropdown" />')
